@@ -8,10 +8,10 @@
 
 ### Recent Open Source Activities
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/InhwanBae/GPGraph/issues/5) in [InhwanBae/GPGraph](https://github.com/InhwanBae/GPGraph)
-2. 🗣 Commented on [#21](https://github.com/ChuhuaW/SGNet.pytorch/issues/21) in [ChuhuaW/SGNet.pytorch](https://github.com/ChuhuaW/SGNet.pytorch)
-3. ❗️ Opened issue [#4](https://github.com/InhwanBae/GPGraph/issues/4) in [InhwanBae/GPGraph](https://github.com/InhwanBae/GPGraph)
-4. 🗣 Commented on [#3](https://github.com/InhwanBae/GPGraph/issues/3) in [InhwanBae/GPGraph](https://github.com/InhwanBae/GPGraph)
+1. ❗️ Opened issue [#5](https://github.com/MediaBrain-SJTU/GroupNet/issues/5) in [MediaBrain-SJTU/GroupNet](https://github.com/MediaBrain-SJTU/GroupNet)
+2. ❗️ Opened issue [#5](https://github.com/InhwanBae/GPGraph/issues/5) in [InhwanBae/GPGraph](https://github.com/InhwanBae/GPGraph)
+3. 🗣 Commented on [#21](https://github.com/ChuhuaW/SGNet.pytorch/issues/21) in [ChuhuaW/SGNet.pytorch](https://github.com/ChuhuaW/SGNet.pytorch)
+4. ❗️ Opened issue [#4](https://github.com/InhwanBae/GPGraph/issues/4) in [InhwanBae/GPGraph](https://github.com/InhwanBae/GPGraph)
 <!--END_SECTION:activity-->
 
 <!---
