@@ -14,6 +14,10 @@
 4. ❗️ Opened issue [#4](https://github.com/InhwanBae/GPGraph/issues/4) in [InhwanBae/GPGraph](https://github.com/InhwanBae/GPGraph)
 <!--END_SECTION:activity-->
 
+### Github Stats
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haomengz&theme=vue-dark&show_icons=true&hide_border=true" alt="Haomeng's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haomengz&hide=mathematica,jupyter%20notebook&langs_count=8&layout=compact&theme=vue-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <!---
 haomengz/haomengz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
